@@ -1,0 +1,30 @@
+{
+  "id": 90001,
+  "name": "YHUK™ 3-Ply Surgical Masks Type I",
+  "group": "3-Ply Surgical Masks",
+  "describe": "YHUK™ 3-Ply Surgical Masks Type I",
+  "standard": "EN 14683",
+  "license": "CE DOC",
+  "img": "/products/90001/product_1@2x.png",
+  "overview": {
+    "title": "YHUK™ 3-Ply Surgical Masks Type I",
+    "text": "Disposable Face Masks for - Sealed Bag - Hygienic 3-Layer Filter Mask 50 Pcs",
+    "brand": "Shunyi",
+    "model": "SY-45",
+    "images": [
+      "/products/90001/D_01.jpg",
+      "/products/90001/D_02.jpg",
+      "/products/90001/D_03.jpg",
+      "/products/90001/product_1@2x.png"
+    ]
+  },
+  "specifications": [
+    {
+      "name": "Surgical Masks Type I",
+      "size": "SY-45",
+      "notes": "Shunyi",
+      "color": "-"
+    }
+  ],
+  "productDetail": "<section><img style='width: 100%;' src='/products/90001/Detail/YHUK-Certificate-Surgical-Mask-Type-I_01.png'/><img style='width: 100%;' src='/products/90001/Detail/YHUK-Certificate-Surgical-Mask-Type-I_02.png'/><img style='width: 100%;' src='/products/90001/Detail/YHUK-Certificate-Surgical-Mask-Type-I_03.png'/><img style='width: 100%;' src='/products/90001/Detail/YHUK-Certificate-Surgical-Mask-Type-I_04.png'/><img style='width: 100%;' src='/products/90001/Detail/YHUK-Certificate-Surgical-Mask-Type-I_05.png'/><img style='width: 100%;' src='/products/90001/Detail/YHUK-Certificate-Surgical-Mask-Type-I_06.png'/><img style='width: 100%;' src='/products/90001/Detail/YHUK-Certificate-Surgical-Mask-Type-I_15.png'/></section>"
+}

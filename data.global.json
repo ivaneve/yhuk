@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 90001,
+      "name": "Surgical Masks Type I",
+      "group": "YHUK™ 3-Ply Surgical Masks",
+      "describe": "YHUK™ 3-Ply Surgical Masks Type I",
+      "standard": "EN 14683",
+      "license": "CE DOC",
+      "img": "/products/90001/product_1@2x.png"
+    },
+    {
+      "id": 90002,
+      "name": "Surgical Masks Type II",
+      "group": "YHUK™ 3-Ply Surgical Masks",
+      "describe": "YHUK™ 3-Ply Surgical Masks Type II",
+      "standard": "EN 14683",
+      "license": "CE DOC",
+      "img": "/products/90002/product_2@2x.png"
+    },
+    {
+      "id": 90003,
+      "name": "Surgical Masks Type IIR",
+      "group": "YHUK™ 3-Ply Surgical Masks",
+      "describe": "YHUK™ 3-Ply Surgical Masks Type IIR",
+      "standard": "EN 14683",
+      "license": "CE DOC",
+      "img": "/products/90003/product_2@2x.png"
+    },
+    {
+      "id": 90004,
+      "name": "HenChan Vinly Gloves",
+      "group": "",
+      "describe": "HenChan Vinyl Examination Gloves (100pcs/pack)",
+      "standard": "EN 455: 2009/EN ISO 13485:2016",
+      "license": "CE certification",
+      "img": "/products/90004/product_4@2x.png"
+    },
+    {
+      "id": 90005,
+      "name": "JieHong Surgical Gowns",
+      "group": "",
+      "describe": "JieHong Surgical Gowns(100pcs/ctn)",
+      "standard": "EN 13795: 2019",
+      "license": "CE certification",
+      "img": "/products/90005/product_5@2.png"
+    },
+    {
+      "id": 90006,
+      "name": "YHUK™ Medical Protective Coveralls Type 3",
+      "group": "Medical Protective Coveralls",
+      "describe": "YHUK™ Medical Protective Coveralls Type 3",
+      "standard": "EU: EN 14126, EN 14605/466",
+      "license": "CE certification",
+      "img": "/products/90006/product_6@2x.png"
+    },
+    {
+      "id": 90007,
+      "name": "YHUK™ Medical Protective Coveralls Type 5",
+      "group": "Medical Protective Coveralls",
+      "describe": "YHUK™ Medical Protective Coveralls Type 5",
+      "standard": "EN 14126, EN 13982",
+      "license": "CE certification",
+      "img": "/products/90006/product_6@2x.png"
+    },
+    {
+      "id": 90008,
+      "name": "LyFamily 75% Alcohol Leave-on Hand Sanitizer Gel",
+      "group": "Hand Sanitizer Gel",
+      "describe": "60ml / 250ml / 500ml",
+      "standard": "EN1499：2013",
+      "license": "CE certification",
+      "img": "/products/90008/product_6@2x.png"
+    }
+  ],
+  "emailConfig": {
+    "Host": "smtp.exmail.qq.com",
+    "Username": "service@yhuk.com",
+    "Password": "rWkXQzRjmctk7Nx9",
+    "To": "info@yhuk.com",
+    "From": "service@yhuk.com",
+    "Subject": "QUOTE FROM WEB",
+    "Body": ""
+  }
+}

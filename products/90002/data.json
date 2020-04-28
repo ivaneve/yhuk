@@ -1,0 +1,30 @@
+{
+  "id": 90002,
+  "name": "YHUK™ 3-Ply Surgical Masks Type II (50pcs/pack)",
+  "group": "3-Ply Surgical Masks",
+  "describe": "YHUK™ 3-Ply Surgical Masks Type II",
+  "standard": "EN 14683",
+  "license": "CE DOC",
+  "img": "/products/90002/product_2@2x.png",
+  "overview": {
+    "title": "YHUK™ 3-Ply Surgical Masks Type II",
+    "text": "YHUK™ 3-Ply Surgical Mask Type II is a disposable 3-ply mask, made of nonwoven fabric which is used for medical and healthcare.",
+    "brand": "YHUK & DongAn",
+    "model": "YHUKDA",
+    "style": "-",
+    "images": [
+      "/products/90002/D_02.jpg",
+      "/products/90002/D_01.png"
+    ]
+  },
+  "specifications": [
+    {
+      "name": "YHUK™ 3-Ply Surgical Masks Type II",
+      "size": "17.5*9cm",
+      "notes": "-",
+      "color": "Blue",
+      "certificate": "CE DOC"
+    }
+  ],
+  "productDetail": "<section><img style='width: 100%;' src='/products/90002/D_01.jpg'/><img style='width: 100%;' src='/products/90002/Detail/YHUK-Certificate-Surgical-Mask-Type-II_19.png'/><img style='width: 100%;' src='/products/90002/Detail/YHUK-Certificate-Surgical-Mask-Type-II_20.png'/></section>"
+}
