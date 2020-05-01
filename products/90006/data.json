@@ -57,11 +57,11 @@
   "productDetail": "<section>YHUK™ Medical Protective Coveralls Type 3<br><br>The product can be used in the places with higher level of protection e.g. ICU Isolation Approach.<br>The product conforms to EN 12126 EN 14605: 2005 and is certified by 'TUV SUD'.<br>The product conforms to GB 19082:2009. It is certified by 'Beijing Center for Quality Supervision and Inspection of Medical Devices, State Food and Drug Administration', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br>The factory is certified by China National Medical Products Administration (NMPA).<br>The factory is certified for EN ISO 13485: 2016 by 'TUV SUD'.<br>The factory was founded in 2012.<br><br><br><br></section>",
   "documents": [
     {
-      "group": "",
+      "group": "Certificate Doc",
       "files": [
         {
-          "name": "YHUK-Certificate-Coveralls-Type-3-BH800",
-          "src": "/products/90006/doc/YHUK-Certificate-Coveralls-Type-3-BH800.pdf"
+          "name": "Request by email: info@yhuk.com",
+          "src": "/products/certificate_doc.txt"
         }
       ]
     }

@@ -56,11 +56,11 @@
   "productDetail": "<section>HenChan Vinyl Examination Gloves<br>Powder free<br>Ambidextrous<br>Non-Sterile<br>Single Use Only<br><br>1995 Founded Factory<br>FDA Certified</section>",
   "documents": [
     {
-      "group": "",
+      "group": "Certificate Doc",
       "files": [
         {
-          "name": "YHUK-Certificate-Gloves-HanChen.pdf",
-          "src": "/products/90004/doc/YHUK-Certificate-Gloves-HanChen.pdf"
+          "name": "Request by email: info@yhuk.com",
+          "src": "/products/certificate_doc.txt"
         }
       ]
     }

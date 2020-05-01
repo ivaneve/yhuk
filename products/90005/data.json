@@ -57,11 +57,11 @@
   "productDetail": "<section>JieHong Surgical Gowns<br><br>Full breathable outside poly surgical gown, Hand towel, Wrap<br>AATCC 42 (impact penetration) <= 0.1g<br>AATCC 127 (hydrostatic pressure) >= 50cm<br><br>The product meet FDA Level 3 Surgical Gown requirement<br>The product is certified for EN ISO 13485 Sterile conditions, sterlised systems or procedure packs.<br>The product conforms to FDA ASNI PB70:2003 and is certified by 'TUV SUD'.<br>The product confroms to YY/T 0506: 2016. It is certified by 'Jinan center for quality supervision and inspection of medical devices, state food and drug administration', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br>The factory certified by China National Medical Products Administration (NMPA).<br></section>",
   "documents": [
     {
-      "group": "",
+      "group": "Certificate Doc",
       "files": [
         {
-          "name": "YHUK-Certificate-Gown-JieHong.pdf",
-          "src": "/products/90005/doc/YHUK-Certificate-Gown-JieHong.pdf"
+          "name": "Request by email: info@yhuk.com",
+          "src": "/products/certificate_doc.txt"
         }
       ]
     }
