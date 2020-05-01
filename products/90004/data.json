@@ -17,12 +17,52 @@
   },
   "specifications": [
     {
-      "name": "HenChan Vinyl Examination Gloves",
-      "size": "S, M, L, XL",
-      "notes": "100pcs/pack, 10pack/ctn",
-      "color": "Transparent",
-      "certificate": "CE DOC"
+      "key": "Product Name",
+      "value": "HenChan Vinyl Examination Gloves"
+    },
+    {
+      "key": "Brand",
+      "value": "HenChan"
+    },
+    {
+      "key": "Model",
+      "value": "YHUKHC"
+    },
+    {
+      "key": "Size",
+      "value": "S, M, L, XL"
+    },
+    {
+      "key": "EAN",
+      "value": "S: 6949809200041 \n M: 6949809200065 \n L: 6949809200089 \n XL: 6949809200119"
+    },
+    {
+      "key": "Quantity",
+      "value": "100pcs/pack, 10pack/ctn"
+    },
+    {
+      "key": "Colour",
+      "value": "Transparent"
+    },
+    {
+      "key": "Material",
+      "value": "PVC Vinyl"
+    },
+    {
+      "key": "Standard",
+      "value": "EN 455: 2009\nEN ISO 13485:2016\nDirective 93/42/EEC Standard"
     }
   ],
-  "productDetail": "<section>HenChan Vinyl Examination Gloves<br>Powder free<br>Ambidextrous<br>Non-Sterile<br>Single Use Only<br><br>1995 Founded Factory<br>FDA Certified</section>"
+  "productDetail": "<section>HenChan Vinyl Examination Gloves<br>Powder free<br>Ambidextrous<br>Non-Sterile<br>Single Use Only<br><br>1995 Founded Factory<br>FDA Certified</section>",
+  "documents": [
+    {
+      "group": "",
+      "files": [
+        {
+          "name": "YHUK-Certificate-Gloves-HanChen.pdf",
+          "src": "/products/90004/doc/YHUK-Certificate-Gloves-HanChen.pdf"
+        }
+      ]
+    }
+  ]
 }

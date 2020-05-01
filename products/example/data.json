@@ -1,0 +1,88 @@
+{
+  "id": 90001,
+  "name": "A surgical mask",
+  "group": "Protective Face Masks",
+  "describe": "Elastic Ear-loop style(17.5*9.5cm)",
+  "standard": "YY/T 0969-2013",
+  "license": "CE DOC",
+  "img": "/products/90001/product_1@2x.png",
+  "overview": {
+    "title": "some overview title",
+    "text": "some overview text some overview text some overview text some overview text some overview text some overview text ",
+    "brand": "Shunyi",
+    "model": "SY-45",
+    "style": "Elastic Ear-loop style",
+    "images": [
+      "/products/90001/product_1@2x.png",
+      "/products/90001/product_1@2x.png",
+      "/products/90001/product_1@2x.png",
+      "/products/90001/product_1@2x.png",
+      "/products/90001/product_1@2x.png",
+      "/products/90001/product_1@2x.png"
+    ]
+  },
+  "specifications": [
+    {
+      "key": "some key",
+      "value": "some value"
+    },
+    {
+      "key": "some key",
+      "value": "some value"
+    },
+    {
+      "key": "some key",
+      "value": "some value"
+    },
+    {
+      "key": "some key",
+      "value": "some long value some long value some long value some long value some long value some long value some long value some long value some long value some long value some long value some long value "
+    }
+  ],
+  "productDetail": "<section>Product Detail</section>\n<section>Product Detail</section>",
+  "documents": [
+    {
+      "group": "",
+      "files": [
+        {
+          "name": "some doc",
+          "src": "/products/90001/some_doc.docx"
+        },
+        {
+          "name": "some image",
+          "src": "/products/90001/product_1@2x.png"
+        }
+      ]
+    },
+    {
+      "group": "Data Sheet",
+      "files": [
+        {
+          "name": "some pdf",
+          "src": "/products/90001/some_pdf.pdf"
+        },
+        {
+          "name": "some file",
+          "src": "/products/90001/some_pdf.pdf"
+        }
+      ]
+    },
+    {
+      "group": "some title some title",
+      "files": [
+        {
+          "name": "some doc",
+          "src": "/products/90001/some_doc.docx"
+        },
+        {
+          "name": "some file",
+          "src": "/products/90001/some_doc.docx"
+        },
+        {
+          "name": "some file",
+          "src": "/products/90001/some_doc.docx"
+        }
+      ]
+    }
+  ]
+}

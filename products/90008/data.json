@@ -18,25 +18,12 @@
   },
   "specifications": [
     {
-      "name": "LyFamily 75% Alcohol Leave-on Hand Sanitizer Gel",
-      "size": "500ml",
-      "notes": "-",
-      "color": "-",
-      "certificate": "CE DOC"
+      "key": "Product Name",
+      "value": "LyFamily 75% Alcohol Leave-on Hand Sanitizer Gel"
     },
     {
-      "name": "LyFamily 75% Alcohol Leave-on Hand Sanitizer Gel",
-      "size": "250ml",
-      "notes": "-",
-      "color": "-",
-      "certificate": "CE DOC"
-    },
-    {
-      "name": "LyFamily 75% Alcohol Leave-on Hand Sanitizer Gel",
-      "size": "60ml",
-      "notes": "-",
-      "color": "-",
-      "certificate": "CE DOC"
+      "key": "Size",
+      "value": "60ml / 250ml / 500ml "
     }
   ],
   "productDetail": "<section>LyFamily 75% Alcohol Leave-on Hand Sanitizer Gel<img style='width: 100%;' src='/products/90008/D_01.jpg'/></section>"

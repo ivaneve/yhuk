@@ -7,7 +7,7 @@
   "license": "CE DOC",
   "img": "/products/90002/product_2@2x.png",
   "overview": {
-    "title": "YHUK™ 3-Ply Surgical Masks Type II",
+    "title": "YHUK™ 3-Ply Surgical Masks Type IIR (20pcs/pack)",
     "text": "YHUK™ 3-Ply Surgical Masks Type IIR is composed of ear-loops, nose clip and tie-band, made of non-woven fiber fabric. Plays the role of isolation and protection through filtration, the fixed nose clip enhances the protection of the mouth and nose. The ear-loops medical surgical is more convenient to wear and remove. ",
     "brand": "YHUK & BIOSIS HEALING",
     "model": "YHUKBHSM",
@@ -19,12 +19,49 @@
   },
   "specifications": [
     {
-      "name": "YHUK™ 3-Ply Surgical Masks Type IIR",
-      "size": "W 175mm x H 95mm",
-      "notes": "Standard CN: YY 0469-2011 / Standard EU: 14683:2019 Type IIR / DIN ISO 13485:2016",
-      "color": "Blue",
-      "certificate": "CE DOC"
+      "key": "Product Name",
+      "value": "YHUK™ 3-Ply Surgical Masks Type IIR (20pcs/pack)"
+    },
+    {
+      "key": "Brand",
+      "value": "YHUK & BIOSIS HEALING"
+    },
+    {
+      "key": "EAN",
+      "value": "0647016944166"
+    },
+    {
+      "key": "Size",
+      "value": "W 175mm x H 95mm"
+    },
+    {
+      "key": "Colour",
+      "value": "Blue"
+    },
+    {
+      "key": "Quantity",
+      "value": "20pcs/pack"
+    },
+    {
+      "key": "Material",
+      "value": "Main Body: Meltdown and nonwoven fabrics\nEar loops: Elastane cord"
+    },
+    {
+      "key": "Standard",
+      "value": "Standard CN: YY 0469-2011\nStandard EU: 14683:2019 Type IIR\nDIN ISO 13485:2016"
     }
   ],
-  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type IIR<br>Bacterial Filtration Efficiency (BFE): ≥ 99.7%<br>Particulate Filtration Efficiency (PFE): ≥ 93%<br>Breathing Resistance (Differential pressure): 37.9~41.5 Pa/cm2<br><br>Microbial Cleanliness (Bioburden): <= 20 CFU/g<br>Splash Fluid Resistance: NA <br>Penetration of Synthetic Blood Pressure (16.0kPa, 120mmHg): None Seen<br>The product conforms to EN 14683:2019 Type IIR. It is certified by 'TUV SUD'.<br>The product conforms to YY/T 0406-2011 and is certified by 'Beijing center for quality supervision and inspection of medical devices, state food and drug administration', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br>The factory is certified by China National Medical Products Administration (NMPA).<br><img style='width: 100%;' src='/products/90002/D_01.jpg'/></section>"
+  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type IIR<br>Bacterial Filtration Efficiency (BFE): ≥ 99.7%<br>Particulate Filtration Efficiency (PFE): ≥ 93%<br>Breathing Resistance (Differential pressure): 37.9~41.5 Pa/cm2<br><br>Microbial Cleanliness (Bioburden): <= 20 CFU/g<br>Splash Fluid Resistance: NA <br>Penetration of Synthetic Blood Pressure (16.0kPa, 120mmHg): None Seen<br>The product conforms to EN 14683:2019 Type IIR. It is certified by 'TUV SUD'.<br>The product conforms to YY/T 0406-2011 and is certified by 'Beijing center for quality supervision and inspection of medical devices, state food and drug administration', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br>The factory is certified by China National Medical Products Administration (NMPA).<br><img style='width: 100%;' src='/products/90002/D_01.jpg'/></section>",
+  "documents": [
+    {
+      "group": "Certificate Doc",
+      "files": [
+        {
+          "name": "YHUK-Certificate-Surgical-Mask-Type-IIR.pdf",
+          "src": "/products/90003/doc/YHUK-Certificate-Surgical-Mask-Type-IIR.pdf"
+        }
+      ]
+    }
+  ]
+
 }

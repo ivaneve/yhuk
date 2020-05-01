@@ -10,8 +10,7 @@
     "title": "YHUK™ 3-Ply Surgical Masks Type II",
     "text": "YHUK™ 3-Ply Surgical Mask Type II is a disposable 3-ply mask, made of nonwoven fabric which is used for medical and healthcare.",
     "brand": "YHUK & DongAn",
-    "model": "YHUKDA",
-    "style": "-",
+    "style": "",
     "images": [
       "/products/90002/D_02.jpg",
       "/products/90002/D_01.png"
@@ -19,12 +18,44 @@
   },
   "specifications": [
     {
-      "name": "YHUK™ 3-Ply Surgical Masks Type II",
-      "size": "17.5*9cm",
-      "notes": "-",
-      "color": "Blue",
-      "certificate": "CE DOC"
+      "key": "Product Name",
+      "value": "YHUK™ 3-Ply Surgical Masks Type II"
+    },
+    {
+      "key": "Brand",
+      "value": "YHUK & DongAn"
+    },
+    {
+      "key": "EAN",
+      "value": "0647016800424"
+    },
+    {
+      "key": "Size",
+      "value": "W 175mm x H 95mm"
+    },
+    {
+      "key": "Colour",
+      "value": "Blue"
+    },
+    {
+      "key": "Material",
+      "value": "Main Body: Meltdown and nonwoven fabrics\nEar loops: Elastane cord"
+    },
+    {
+      "key": "Standard",
+      "value": "T/CTCA 7-2019\nGB/T 2912: 2009\nGB/T 17593: 2007\nYY 0469:2011\nEU Standard: EN14683: 2019 Type I\nMDD: 93/42/EEC Standard"
     }
   ],
-  "productDetail": "<section><img style='width: 100%;' src='/products/90002/D_01.jpg'/><img style='width: 100%;' src='/products/90002/Detail/YHUK-Certificate-Surgical-Mask-Type-II_19.png'/><img style='width: 100%;' src='/products/90002/Detail/YHUK-Certificate-Surgical-Mask-Type-II_20.png'/></section>"
+  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type II<br/><br/>Bacterial Filtration Efficiency (BFE): ≥ 95%<br/><br/>Particulate Filtration Efficiency (PFE): ≥ 80%<br><br>Breathing Resistance (Differential Pressure): 34.7 Pa/cm2<br>Microbial Cleanliness (Bioburden): Not detected<br>Splash Resistance: NA<br>Penetration of Synthetic Blood Pressure: NA<br><br>The product conforms to T/CTCA 7-2019. It is certified by 'Guangzhou Inspection and Certification Group Co., Ltd.l', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br><br>Type I Surgical Masks should only be used for patients and other persons to reduce the risk of spread of infections particularly in epidemic or pandemic situations. Type I masks are not intended for use by healthcare professionals in an operating room or in other medical settings with similar requirements.<br></section>",
+  "documents": [
+    {
+      "group": "Certificate Doc",
+      "files": [
+        {
+          "name": "YHUK-Certificate-Surgical-Mask-Type-II.pdf",
+          "src": "/products/90002/doc/YHUK-Certificate-Surgical-Mask-Type-II.pdf"
+        }
+      ]
+    }
+  ]
 }
