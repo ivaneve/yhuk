@@ -1,13 +1,6 @@
 {
   "products": [
     {
-      "id": 90001,
-      "name": "Surgical Masks Type I",
-      "group": "YHUK™ 3-Ply Surgical Masks",
-      "describe": "YHUK™ 3-Ply Surgical Masks Type I",
-      "img": "/products/90001/home@2x.png"
-    },
-    {
       "id": 90002,
       "name": "Surgical Masks Type II",
       "group": "YHUK™ 3-Ply Surgical Masks",
