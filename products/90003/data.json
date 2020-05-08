@@ -12,10 +12,7 @@
     "brand": "YHUK & BIOSIS HEALING",
     "model": "YHUKBHSM",
     "style": "-",
-    "images": [
-      "/products/90002/D_02.jpg",
-      "/products/90002/D_01.png"
-    ]
+    "images": ["/products/90002/D_02.jpg", "/products/90002/D_01.png"]
   },
   "specifications": [
     {
@@ -25,6 +22,10 @@
     {
       "key": "Brand",
       "value": "YHUK & BIOSIS HEALING"
+    },
+    {
+      "key": "Model",
+      "value": "YHUKBHSM"
     },
     {
       "key": "EAN",
@@ -63,5 +64,4 @@
       ]
     }
   ]
-
 }
