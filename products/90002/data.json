@@ -1,14 +1,14 @@
 {
   "id": 90002,
-  "name": "YHUK™ 3-Ply Surgical Masks Type II (50pcs/pack)",
+  "name": "YHUK™ 3-Ply Surgical Masks Type IIR (50pcs/pack)",
   "group": "3-Ply Surgical Masks",
-  "describe": "YHUK™ 3-Ply Surgical Masks Type II",
+  "describe": "YHUK™ 3-Ply Surgical Masks Type IIR",
   "standard": "EN 14683",
   "license": "CE DOC",
   "img": "/products/90002/product_2@2x.png",
   "overview": {
-    "title": "YHUK™ 3-Ply Surgical Masks Type II",
-    "text": "YHUK™ 3-Ply Surgical Mask Type II is a disposable 3-ply mask, made of nonwoven fabric which is used for medical and healthcare.",
+    "title": "YHUK™ 3-Ply Surgical Masks Type IIR",
+    "text": "YHUK™ 3-Ply Surgical Mask Type IIR is a disposable 3-ply mask, made of nonwoven fabric which is used for medical and healthcare.",
     "brand": "YHUK & DongAn",
     "style": "",
     "images": [
@@ -19,7 +19,7 @@
   "specifications": [
     {
       "key": "Product Name",
-      "value": "YHUK™ 3-Ply Surgical Masks Type II"
+      "value": "YHUK™ 3-Ply Surgical Masks Type IIR"
     },
     {
       "key": "Brand",
@@ -58,7 +58,7 @@
       "value": "https://www.youtube.com/watch?v=x_bGo4l6REw"
     }
   ],
-  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type II<br/><br/>Bacterial Filtration Efficiency (BFE): ≥ 98%<br/><br>Breathing Resistance (Differential Pressure): 34.7 Pa/cm2<br>Microbial Cleanliness (Bioburden): Not detected<br>Splash Resistance: NA<br>Penetration of Synthetic Blood Pressure: NA<br><br>The product conforms to YY0969. It is certified by 'Guangzhou Inspection and Certification Group Co., Ltd.', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br></section>",
+  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type IIR<br/><br/>Bacterial Filtration Efficiency (BFE): ≥ 98%<br/><br>Breathing Resistance (Differential Pressure): 34.7 Pa/cm2<br>Microbial Cleanliness (Bioburden): Not detected<br>Splash Resistance: NA<br>Penetration of Synthetic Blood Pressure: NA<br><br>The product conforms to YY0969. It is certified by 'Guangzhou Inspection and Certification Group Co., Ltd.', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br></section>",
   "documents": [
     {
       "group": "Certificate Doc",
