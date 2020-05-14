@@ -51,14 +51,14 @@
     },
     {
       "key": "Standard",
-      "value": "T/CTCA 7-2019\nGB/T 2912: 2009\nGB/T 17593: 2007\nYY 0469:2011\nEU Standard: EN14683: 2019 Type I\nMDD: 93/42/EEC Standard"
+      "value": "YY/T 0469:2011\nEU Standard: EN 14683: 2019 Type IIR\nMDD: 93/42/EEC Standard"
     },
     {
       "key": "Factory",
       "value": "https://www.youtube.com/watch?v=x_bGo4l6REw"
     }
   ],
-  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type IIR<br/><br/>Bacterial Filtration Efficiency (BFE): ≥ 98%<br/><br>Breathing Resistance (Differential Pressure): 34.7 Pa/cm2<br>Microbial Cleanliness (Bioburden): Not detected<br>Splash Resistance: NA<br>Penetration of Synthetic Blood Pressure: NA<br><br>The product conforms to YY0969. It is certified by 'Guangzhou Inspection and Certification Group Co., Ltd.', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br></section>",
+  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type IIR<br/><br/>Bacterial Filtration Efficiency (BFE): ≥ 95%<br>Breathing Resistance (Differential Pressure): 34.7 Pa/cm2<br>Microbial Cleanliness (Bioburden): Not detected<br>Penetration of Synthetic Blood Pressure: NONE SEEN<br><br><br>The product conforms to EN 14683:2019 Type IIR. It is certified by 'SGS'.<br>The product conforms YY/T 0469:2011. It is certified by 'Guangzhou Inspection and Certification Group Co., Ltd', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br></section>",
   "documents": [
     {
       "group": "Certificate Doc",
