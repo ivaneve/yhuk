@@ -1,0 +1,62 @@
+{
+  "id": 90011,
+  "name": "YHUK™ BH FFP2 protective mask",
+  "overview": {
+    "title": "YHUK™ BH FFP2 protective mask",
+    "text": "YHUK™ BH FFP2 protective mask  Effectively filter suspended particles or germs.New nanofibrous film has better filter efficiency and be more comfortable than traditional materials. Conform to en 149:2001+A1:2009",
+    "brand": "YHUK & BIOSIS HEALING",
+    "model": "YHUKBHFFP2",
+    "style": "",
+    "images": ["/products/90011/1.png","/products/90011/2.png","/products/90011/3.png"]
+  },
+  "specifications": [
+    {
+      "key": "Product Name",
+      "value": "YHUK™ BH FFP2 protective mask"
+    },
+    {
+      "key": "Brand",
+      "value": "YHUK & BIOSIS HEALING"
+    },
+    {
+      "key": "Model",
+      "value": "YHUKBHFFP2"
+    },
+    {
+      "key": "EAN",
+      "value": "6934841513495"
+    },
+    {
+      "key": "Size",
+      "value": "W 15.5mm x H 10.5mm"
+    },
+    {
+      "key": "Colour",
+      "value": "white"
+    },
+    {
+      "key": "Material",
+      "value": "Main Body: Meltdown and nonwoven fabrics nanofibrous film\nHead-straps: Elastane cord "
+    },
+    {
+      "key": "Quantity",
+      "value": "50pcs/pack"
+    },
+    {
+      "key": "Standard",
+      "value": "Standard EU: EN 149:2001+A1:2009 FFP2\nDIN ISO 13485:2016"
+    }
+  ],
+  "productDetail": "<section>YHUK™ BH FFP2 protective mask<br><br>Filtration Efficiency : ≥ 97%<br>Inhalation resistance <=350Pa<br>Exhalation resistance<=250Pa<br>Dead space <=1%<br>Vision >= 10N<br>The product conforms to EN 149 FFP2. It is certified by 'DEKRA'.<br>The factory is certified by China National Medical Products Administration (NMPA) and it is on the white list of non-medical mask of China Chamber Of Commerce Of Medicine & Health Produces Importers & Exporters.</section>",
+  "documents": [
+    {
+      "group": "Certificate Doc",
+      "files": [
+        {
+          "name": "Request by email: info@yhuk.com",
+          "src": "/products/certificate_doc.txt"
+        }
+      ]
+    }
+  ]
+}

@@ -48,6 +48,20 @@
       "group": "Hand Sanitizer Gel",
       "describe": "LyFamily 75% Alcohol Leave-on Hand Sanitizer Gel",
       "img": "/products/90008/home@2x.png"
+    },
+    {
+      "id": 90010,
+      "name": "Surgical Masks Type IIR TK",
+      "group": "YHUK™ 3-Ply Surgical Masks",
+      "describe": "",
+      "img": "/products/90010/home@2x.png"
+    },
+    {
+      "id": 90011,
+      "name": "BH FFP2 Protective Mask",
+      "group": "YHUK™ 3-Ply Surgical Masks",
+      "describe": "",
+      "img": "/products/90011/home@2x.png"
     }
   ],
   "registries": [

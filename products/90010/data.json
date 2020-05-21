@@ -1,0 +1,58 @@
+{
+  "id": 90010,
+  "name": "Surgical Masks Type IIR TK",
+  "overview": {
+    "title": "YHUK™ 3-Ply Surgical Masks Type IIR (20pcs/pack)",
+    "text": "YHUK™ 3-Ply Surgical Masks Type IIR is composed of ear-loops, nose clip and tie-band, made of non-woven fiber fabric. Plays the role of isolation and protection through filtration, the fixed nose clip enhances the protection of the mouth and nose. The ear-loops medical surgical is more convenient to wear and remove. ",
+    "brand": "YHUK & TIAN KANG",
+    "model": "YHUKTK",
+    "style": "",
+    "images": ["/products/90010/1.png","/products/90010/2.png","/products/90010/3.png"]
+  },
+  "specifications": [
+    {
+      "key": "Product Name",
+      "value": "YHUK™ 3-Ply Surgical Masks Type IIR"
+    },
+    {
+      "key": "Brand",
+      "value": "YHUK & TIAN KANG"
+    },
+    {
+      "key": "Model",
+      "value": "YHUK & TIAN KANG"
+    },
+    {
+      "key": "EAN",
+      "value": "6934841513495"
+    },
+    {
+      "key": "Colour",
+      "value": "Blue"
+    },
+    {
+      "key": "Material",
+      "value": "Main Body: Meltdown and nonwoven fabrics Ear loops: Elastane cord"
+    },
+    {
+      "key": "Quantity",
+      "value": "50pcs/pack"
+    },
+    {
+      "key": "Standard",
+      "value": "Standard CN: YY 0469-2011  \n  Standard EU: 14683:2019 Type IIR \n DIN ISO 13485:2016"
+    }
+  ],
+  "productDetail": "<section>YHUK™ 3-Ply Surgical Masks Type IIR<br><br>Bacterial Filtration Efficiency (BFE): ≥ 98%<br>Breathing Resistance (Differential pressure): 37.9~41.5 Pa/cm2<br>Microbial Cleanliness (Bioburden): <= 20 CFU/g<br>Penetration of Synthetic Blood Pressure (16.0kPa, 120mmHg): None Seen<br><br>The product conforms to EN 14683:2019 Type IIR. It is certified by 'TUV SUD'.<br>The product conforms to YY/T 0406-2011 and is certified by 'Anhui food and drug inspection and Research<br>Institute', a China National Accreditation Service for Conformity Assessment (CNAS) listed testing laboratory.<br>The factory is certified by China National Medical Products Administration (NMPA). </section>",
+  "documents": [
+    {
+      "group": "Certificate Doc",
+      "files": [
+        {
+          "name": "Request by email: info@yhuk.com",
+          "src": "/products/certificate_doc.txt"
+        }
+      ]
+    }
+  ]
+}
